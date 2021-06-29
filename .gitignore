@@ -1,2 +1,6 @@
 *.class
 *.log
+.bash_history
+.cache/
+.local/
+.scala_history
